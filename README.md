@@ -1,9 +1,11 @@
-# Strava API with OAuth2.0 Data Analysis — Data Extraction, Processing and Visualization
+# Strava API with OAuth 2.0 Data Analysis — Data Extraction, Processing and Visualization
  
 ETL pipeline that pulls athlete activity data from the **Strava REST API v3**, transforms it with **Python / pandas**, and exposes it through an interactive **Power BI** report built on **DAX** measures.
  
 Coursework project — Nikola Vaptsarov Naval Academy, Department of Information Technologies.
- 
+
+![Training Overview](screenshots/training-overview-all.png)
+
 ## Stack
  
 | Layer | Technology |
